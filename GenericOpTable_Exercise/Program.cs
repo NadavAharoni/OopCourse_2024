@@ -1,10 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq.Expressions;
-using System.Numerics;
-using System.Security.Cryptography.X509Certificates;
-
-namespace OpTable
+﻿namespace OpTable
 {
     
     internal class Program
