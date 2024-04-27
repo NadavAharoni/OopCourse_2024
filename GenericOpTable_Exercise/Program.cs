@@ -88,7 +88,7 @@ namespace OpTable
         public OperationTable(List<T> _row_values, List<T> _col_values, OpFunc _op)
         {
             op = _op;
-            // --> exercise: comlete this function
+            // --> exercise: complete this function
         }
 
         public void Print()
